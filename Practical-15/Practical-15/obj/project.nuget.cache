@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8uiJK9m1AouQbSI5tjrsXtv6bGEnaiRwi/ivLz3lmd9f4BW6oo8+LgA0FnwTaN2UXaLfD2CHArrRiwJLVG4jwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gaurav\\source\\repos\\Asp.Net Core Practicals\\Practical-15\\Practical-15\\Practical-15.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gaurav\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\gaurav\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\gaurav\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\gaurav\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\gaurav\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\gaurav\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
